@@ -1,3 +1,2 @@
-Getting Started
-test2
+## Guide for hassio deployment on Synology Nas 
 
